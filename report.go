@@ -7,7 +7,7 @@ import (
 	"strings"
 	"time"
 
-	vegeta "github.com/tsenart/vegeta/lib"
+	vegeta "github.com/bgentry/vegeta/lib"
 )
 
 func reportCmd() command {

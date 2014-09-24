@@ -9,7 +9,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/tsenart/vegeta/lib"
+	"github.com/bgentry/vegeta/lib"
 )
 
 func init() {
